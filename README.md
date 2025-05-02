@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Marketplace de Composants Next.js
 
-## Getting Started
+Bienvenue dans notre marketplace de composants Next.js ! Une plateforme dédiée aux développeurs qui cherchent des composants React/Next.js de haute qualité, prêts à l'emploi.
 
-First, run the development server:
+## 📦 À propos
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Notre marketplace offre une collection soigneusement conçue de composants React/Next.js pour accélérer votre processus de développement. Chaque composant est :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Testé et optimisé pour les performances
+- Compatible avec les dernières versions de Next.js
+- Supporté par TypeScript
+- Facilement personnalisable
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Fonctionnalités
+- **Server et client** : Des composants adaptés au mieux à votre projet
+- **Composants Premium** : Des composants soigneusement conçus et testés
+- **Optimisation SEO** : Composants optimisés pour le référencement
+- **Responsive Design** : Compatible avec tous les appareils
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Utilisation
 
-## Learn More
+1. Parcourez notre catalogue de composants
+2. Sélectionnez le composant qui correspond à vos besoins
+3. Copier coller le code dans votre projet
 
-To learn more about Next.js, take a look at the following resources:
+## 📞 Support
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Besoin d'aide ? Contactez-nous :
+- Email : contact@anthonymarandon.fr
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Développé avec ❤️ par Anthony Marandon
