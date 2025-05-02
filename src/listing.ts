@@ -31,6 +31,16 @@ import { componentHero8 } from '@/components/hero/hero8';
 import { componentHero9 } from '@/components/hero/hero9';
 import { componentHero10 } from '@/components/hero/hero10';
 
+import { componentFeatures1 } from '@/components/features/features1';
+import { componentFeatures2 } from '@/components/features/features2';
+import { componentFeatures3 } from '@/components/features/features3';
+import { componentFeatures4 } from '@/components/features/features4';
+import { componentFeatures5 } from '@/components/features/features5';
+import { componentFeatures6 } from '@/components/features/features6';
+import { componentFeatures7 } from '@/components/features/features7';
+import { componentFeatures8 } from '@/components/features/features8';
+import { componentFeatures9 } from '@/components/features/features9';
+import { componentFeatures10 } from '@/components/features/features10';
 
 
 export const componentData = {
@@ -69,5 +79,18 @@ export const componentData = {
     { id: componentHero8.id, name: componentHero8.name, description: componentHero8.description, category: componentHero8.category, component: componentHero8.component, code: componentHero8.code },
     { id: componentHero9.id, name: componentHero9.name, description: componentHero9.description, category: componentHero9.category, component: componentHero9.component, code: componentHero9.code },
     { id: componentHero10.id, name: componentHero10.name, description: componentHero10.description, category: componentHero10.category, component: componentHero10.component, code: componentHero10.code },
+  ],
+  features: [
+    { id: componentFeatures1.id, name: componentFeatures1.name, description: componentFeatures1.description, category: componentFeatures1.category, component: componentFeatures1.component, code: componentFeatures1.code },
+    { id: componentFeatures2.id, name: componentFeatures2.name, description: componentFeatures2.description, category: componentFeatures2.category, component: componentFeatures2.component, code: componentFeatures2.code },
+    { id: componentFeatures3.id, name: componentFeatures3.name, description: componentFeatures3.description, category: componentFeatures3.category, component: componentFeatures3.component, code: componentFeatures3.code },
+    { id: componentFeatures4.id, name: componentFeatures4.name, description: componentFeatures4.description, category: componentFeatures4.category, component: componentFeatures4.component, code: componentFeatures4.code },
+    { id: componentFeatures5.id, name: componentFeatures5.name, description: componentFeatures5.description, category: componentFeatures5.category, component: componentFeatures5.component, code: componentFeatures5.code },
+    { id: componentFeatures6.id, name: componentFeatures6.name, description: componentFeatures6.description, category: componentFeatures6.category, component: componentFeatures6.component, code: componentFeatures6.code },
+    { id: componentFeatures7.id, name: componentFeatures7.name, description: componentFeatures7.description, category: componentFeatures7.category, component: componentFeatures7.component, code: componentFeatures7.code },
+    { id: componentFeatures8.id, name: componentFeatures8.name, description: componentFeatures8.description, category: componentFeatures8.category, component: componentFeatures8.component, code: componentFeatures8.code },
+    { id: componentFeatures9.id, name: componentFeatures9.name, description: componentFeatures9.description, category: componentFeatures9.category, component: componentFeatures9.component, code: componentFeatures9.code },
+    { id: componentFeatures10.id, name: componentFeatures10.name, description: componentFeatures10.description, category: componentFeatures10.category, component: componentFeatures10.component, code: componentFeatures10.code },
+    
   ],
 };
