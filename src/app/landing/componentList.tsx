@@ -2,14 +2,6 @@ import Link from 'next/link';
 import { componentData } from '@/listing';
 import { IoCloseCircleOutline } from 'react-icons/io5';
 
-const components = componentData.about.map(comp => ({
-  id: comp.id,
-  name: comp.name,
-  description: comp.description,
-  code: comp.code,
-  category: comp.category
-}));
-
 const allComponents = Object.entries(componentData).flatMap(([category, components]) =>
   components.map(comp => ({ ...comp, category }))
 );

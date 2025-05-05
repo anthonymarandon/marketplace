@@ -42,6 +42,16 @@ import { componentFeatures8 } from '@/components/features/features8';
 import { componentFeatures9 } from '@/components/features/features9';
 import { componentFeatures10 } from '@/components/features/features10';
 
+import { componentPricing1 } from '@/components/pricing/pricing1';
+import { componentPricing2 } from '@/components/pricing/pricing2';
+import { componentPricing3 } from '@/components/pricing/pricing3';
+import { componentPricing4 } from '@/components/pricing/pricing4';
+import { componentPricing5 } from '@/components/pricing/pricing5';
+import { componentPricing6 } from '@/components/pricing/pricing6';
+import { componentPricing7 } from '@/components/pricing/pricing7';
+import { componentPricing8 } from '@/components/pricing/pricing8';
+import { componentPricing9 } from '@/components/pricing/pricing9';
+import { componentPricing10 } from '@/components/pricing/pricing10';
 
 export const componentData = {
   about: [
@@ -91,6 +101,17 @@ export const componentData = {
     { id: componentFeatures8.id, name: componentFeatures8.name, description: componentFeatures8.description, category: componentFeatures8.category, component: componentFeatures8.component, code: componentFeatures8.code },
     { id: componentFeatures9.id, name: componentFeatures9.name, description: componentFeatures9.description, category: componentFeatures9.category, component: componentFeatures9.component, code: componentFeatures9.code },
     { id: componentFeatures10.id, name: componentFeatures10.name, description: componentFeatures10.description, category: componentFeatures10.category, component: componentFeatures10.component, code: componentFeatures10.code },
-    
+  ],
+  pricing: [
+    { id: componentPricing1.id, name: componentPricing1.name, description: componentPricing1.description, category: componentPricing1.category, component: componentPricing1.component, code: componentPricing1.code },
+    { id: componentPricing2.id, name: componentPricing2.name, description: componentPricing2.description, category: componentPricing2.category, component: componentPricing2.component, code: componentPricing2.code },
+    { id: componentPricing3.id, name: componentPricing3.name, description: componentPricing3.description, category: componentPricing3.category, component: componentPricing3.component, code: componentPricing3.code },
+    { id: componentPricing4.id, name: componentPricing4.name, description: componentPricing4.description, category: componentPricing4.category, component: componentPricing4.component, code: componentPricing4.code },
+    { id: componentPricing5.id, name: componentPricing5.name, description: componentPricing5.description, category: componentPricing5.category, component: componentPricing5.component, code: componentPricing5.code },
+    { id: componentPricing6.id, name: componentPricing6.name, description: componentPricing6.description, category: componentPricing6.category, component: componentPricing6.component, code: componentPricing6.code },
+    { id: componentPricing7.id, name: componentPricing7.name, description: componentPricing7.description, category: componentPricing7.category, component: componentPricing7.component, code: componentPricing7.code },
+    { id: componentPricing8.id, name: componentPricing8.name, description: componentPricing8.description, category: componentPricing8.category, component: componentPricing8.component, code: componentPricing8.code },
+    { id: componentPricing9.id, name: componentPricing9.name, description: componentPricing9.description, category: componentPricing9.category, component: componentPricing9.component, code: componentPricing9.code },
+    { id: componentPricing10.id, name: componentPricing10.name, description: componentPricing10.description, category: componentPricing10.category, component: componentPricing10.component, code: componentPricing10.code },
   ],
 };
