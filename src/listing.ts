@@ -53,6 +53,38 @@ import { componentPricing8 } from '@/components/pricing/pricing8';
 import { componentPricing9 } from '@/components/pricing/pricing9';
 import { componentPricing10 } from '@/components/pricing/pricing10';
 
+import { componentFooter1 } from '@/components/footer/footer1';
+import { componentFooter2 } from '@/components/footer/footer2';
+import { componentFooter3 } from '@/components/footer/footer3';
+import { componentFooter4 } from '@/components/footer/footer4';
+import { componentFooter5 } from '@/components/footer/footer5';
+import { componentFooter6 } from '@/components/footer/footer6';
+import { componentFooter7 } from '@/components/footer/footer7';
+import { componentFooter8 } from '@/components/footer/footer8';
+import { componentFooter9 } from '@/components/footer/footer9';
+import { componentFooter10 } from '@/components/footer/footer10';
+
+import { componentTestimonials1 } from '@/components/testimonials/testimonials1';
+import { componentTestimonials2 } from '@/components/testimonials/testimonials2';
+import { componentTestimonials3 } from '@/components/testimonials/testimonials3';
+import { componentTestimonials4 } from '@/components/testimonials/testimonials4';
+import { componentTestimonials5 } from '@/components/testimonials/testimonials5';
+import { componentTestimonials6 } from '@/components/testimonials/testimonials6';
+import { componentTestimonials7 } from '@/components/testimonials/testimonials7';
+import { componentTestimonials8 } from '@/components/testimonials/testimonials8';
+import { componentTestimonials9 } from '@/components/testimonials/testimonials9';
+import { componentTestimonials10 } from '@/components/testimonials/testimonials10';
+
+import { componentCTA1 } from '@/components/cta/cta1';
+import { componentCTA2 } from '@/components/cta/cta2';
+import { componentCTA3 } from '@/components/cta/cta3';
+import { componentCTA4 } from '@/components/cta/cta4';
+import { componentCTA5 } from '@/components/cta/cta5';
+import { componentCTA6 } from '@/components/cta/cta6';
+import { componentCTA7 } from '@/components/cta/cta7';
+import { componentCTA8 } from '@/components/cta/cta8';
+import { componentCTA9 } from '@/components/cta/cta9';
+import { componentCTA10 } from '@/components/cta/cta10';
 export const componentData = {
   about: [
     { id: componentAbout1.id, name: componentAbout1.name, description: componentAbout1.description, category: componentAbout1.category, component: componentAbout1.component, code: componentAbout1.code },
@@ -113,5 +145,41 @@ export const componentData = {
     { id: componentPricing8.id, name: componentPricing8.name, description: componentPricing8.description, category: componentPricing8.category, component: componentPricing8.component, code: componentPricing8.code },
     { id: componentPricing9.id, name: componentPricing9.name, description: componentPricing9.description, category: componentPricing9.category, component: componentPricing9.component, code: componentPricing9.code },
     { id: componentPricing10.id, name: componentPricing10.name, description: componentPricing10.description, category: componentPricing10.category, component: componentPricing10.component, code: componentPricing10.code },
+  ],
+  footer: [
+    { id: componentFooter1.id, name: componentFooter1.name, description: componentFooter1.description, category: componentFooter1.category, component: componentFooter1.component, code: componentFooter1.code },
+    { id: componentFooter2.id, name: componentFooter2.name, description: componentFooter2.description, category: componentFooter2.category, component: componentFooter2.component, code: componentFooter2.code },
+    { id: componentFooter3.id, name: componentFooter3.name, description: componentFooter3.description, category: componentFooter3.category, component: componentFooter3.component, code: componentFooter3.code },
+    { id: componentFooter4.id, name: componentFooter4.name, description: componentFooter4.description, category: componentFooter4.category, component: componentFooter4.component, code: componentFooter4.code },
+    { id: componentFooter5.id, name: componentFooter5.name, description: componentFooter5.description, category: componentFooter5.category, component: componentFooter5.component, code: componentFooter5.code },
+    { id: componentFooter6.id, name: componentFooter6.name, description: componentFooter6.description, category: componentFooter6.category, component: componentFooter6.component, code: componentFooter6.code },
+    { id: componentFooter7.id, name: componentFooter7.name, description: componentFooter7.description, category: componentFooter7.category, component: componentFooter7.component, code: componentFooter7.code },
+    { id: componentFooter8.id, name: componentFooter8.name, description: componentFooter8.description, category: componentFooter8.category, component: componentFooter8.component, code: componentFooter8.code },
+    { id: componentFooter9.id, name: componentFooter9.name, description: componentFooter9.description, category: componentFooter9.category, component: componentFooter9.component, code: componentFooter9.code },
+    { id: componentFooter10.id, name: componentFooter10.name, description: componentFooter10.description, category: componentFooter10.category, component: componentFooter10.component, code: componentFooter10.code },
+  ],
+  testimonials: [
+    { id: componentTestimonials1.id, name: componentTestimonials1.name, description: componentTestimonials1.description, category: componentTestimonials1.category, component: componentTestimonials1.component, code: componentTestimonials1.code },
+    { id: componentTestimonials2.id, name: componentTestimonials2.name, description: componentTestimonials2.description, category: componentTestimonials2.category, component: componentTestimonials2.component, code: componentTestimonials2.code },
+    { id: componentTestimonials3.id, name: componentTestimonials3.name, description: componentTestimonials3.description, category: componentTestimonials3.category, component: componentTestimonials3.component, code: componentTestimonials3.code },
+    { id: componentTestimonials4.id, name: componentTestimonials4.name, description: componentTestimonials4.description, category: componentTestimonials4.category, component: componentTestimonials4.component, code: componentTestimonials4.code },
+    { id: componentTestimonials5.id, name: componentTestimonials5.name, description: componentTestimonials5.description, category: componentTestimonials5.category, component: componentTestimonials5.component, code: componentTestimonials5.code },
+    { id: componentTestimonials6.id, name: componentTestimonials6.name, description: componentTestimonials6.description, category: componentTestimonials6.category, component: componentTestimonials6.component, code: componentTestimonials6.code },
+    { id: componentTestimonials7.id, name: componentTestimonials7.name, description: componentTestimonials7.description, category: componentTestimonials7.category, component: componentTestimonials7.component, code: componentTestimonials7.code },
+    { id: componentTestimonials8.id, name: componentTestimonials8.name, description: componentTestimonials8.description, category: componentTestimonials8.category, component: componentTestimonials8.component, code: componentTestimonials8.code },
+    { id: componentTestimonials9.id, name: componentTestimonials9.name, description: componentTestimonials9.description, category: componentTestimonials9.category, component: componentTestimonials9.component, code: componentTestimonials9.code },
+    { id: componentTestimonials10.id, name: componentTestimonials10.name, description: componentTestimonials10.description, category: componentTestimonials10.category, component: componentTestimonials10.component, code: componentTestimonials10.code },
+  ],
+  cta: [
+    { id: componentCTA1.id, name: componentCTA1.name, description: componentCTA1.description, category: componentCTA1.category, component: componentCTA1.component, code: componentCTA1.code },
+    { id: componentCTA2.id, name: componentCTA2.name, description: componentCTA2.description, category: componentCTA2.category, component: componentCTA2.component, code: componentCTA2.code },
+    { id: componentCTA3.id, name: componentCTA3.name, description: componentCTA3.description, category: componentCTA3.category, component: componentCTA3.component, code: componentCTA3.code },
+    { id: componentCTA4.id, name: componentCTA4.name, description: componentCTA4.description, category: componentCTA4.category, component: componentCTA4.component, code: componentCTA4.code },
+    { id: componentCTA5.id, name: componentCTA5.name, description: componentCTA5.description, category: componentCTA5.category, component: componentCTA5.component, code: componentCTA5.code },
+    { id: componentCTA6.id, name: componentCTA6.name, description: componentCTA6.description, category: componentCTA6.category, component: componentCTA6.component, code: componentCTA6.code },
+    { id: componentCTA7.id, name: componentCTA7.name, description: componentCTA7.description, category: componentCTA7.category, component: componentCTA7.component, code: componentCTA7.code },
+    { id: componentCTA8.id, name: componentCTA8.name, description: componentCTA8.description, category: componentCTA8.category, component: componentCTA8.component, code: componentCTA8.code },
+    { id: componentCTA9.id, name: componentCTA9.name, description: componentCTA9.description, category: componentCTA9.category, component: componentCTA9.component, code: componentCTA9.code },
+    { id: componentCTA10.id, name: componentCTA10.name, description: componentCTA10.description, category: componentCTA10.category, component: componentCTA10.component, code: componentCTA10.code },
   ],
 };

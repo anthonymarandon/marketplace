@@ -26,21 +26,15 @@ export default function ComponentList({ searchQuery = "" }: ComponentListProps) 
 
   return (
     <div className="relative min-h-screen bg-gray-900 overflow-hidden">
-      {/* Fixed background with color spots */}
       <div className="fixed inset-0 z-0 pointer-events-none">
-          {/* Spot 1 */}
           <div className="absolute top-[-50px] left-[-50px] w-72 h-72 bg-purple-600 rounded-full filter blur-3xl opacity-30 animate-pulse"></div>
-          {/* Spot 2 */}
           <div className="absolute bottom-[-80px] right-[-100px] w-96 h-96 bg-blue-500 rounded-full filter blur-3xl opacity-20 animate-pulse animation-delay-2000"></div>
-           {/* Spot 3 */}
           <div className="absolute top-[20%] right-[10%] w-60 h-60 bg-pink-500 rounded-full filter blur-2xl opacity-25 animate-pulse animation-delay-4000"></div>
-           {/* Spot 4 */}
            <div className="absolute bottom-[10%] left-[5%] w-52 h-52 bg-indigo-600 rounded-full filter blur-3xl opacity-20 animate-pulse animation-delay-1000"></div>
       </div>
 
-      {/* Content Container */}
       <div className="relative z-10 container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold mb-8 text-center text-white">Bibliothèque de Composants</h1>
+        <h1 className="text-3xl font-bold mb-8 text-center text-white">Bibliothèque de Composants (NEXT.JS)</h1>
 
         <form method="get" action="/" className="mb-8 max-w-md mx-auto">
           <div className="flex items-center">
