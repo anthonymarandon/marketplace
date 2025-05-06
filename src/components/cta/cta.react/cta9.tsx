@@ -5,7 +5,7 @@ export default function CTA9() {
   const videoThumbnailUrl = 'https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80';
 
   return (
-    <div className="bg-gradient-to-bl from-orange-50 via-yellow-50 to-amber-100 p-8 md:py-16 rounded-3xl max-w-7xl mx-auto shadow-lg font-sans">
+    <div className="bg-gradient-to-bl from-orange-50 via-yellow-50 to-amber-100 p-8 md:py-16 max-w-7xl mx-auto shadow-lg font-sans">
       <div className="max-w-4xl mx-auto text-center">
           <FaVideo className="text-amber-500 text-5xl mx-auto mb-4" />
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 leading-tight">

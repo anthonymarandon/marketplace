@@ -9,7 +9,7 @@ export default function CTA2() {
   const avatar3Url = 'https://i.pravatar.cc/150?img=6';
 
   return (
-    <div className="bg-gradient-to-tr from-blue-50 via-teal-50 to-cyan-100 p-8 md:p-16 rounded-3xl max-w-7xl mx-auto shadow-lg font-sans">
+    <div className="bg-gradient-to-tr from-blue-50 via-teal-50 to-cyan-100 p-8 md:p-16 max-w-7xl mx-auto shadow-lg font-sans">
       <div className="flex flex-col lg:flex-row-reverse gap-12 items-center"> 
 
         <div className="lg:w-1/2 text-center lg:text-left">

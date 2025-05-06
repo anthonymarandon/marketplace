@@ -6,7 +6,7 @@ export default function CTA4() {
   const avatarUrl = 'https://i.pravatar.cc/150?img=7'; 
 
   return (
-    <div className="bg-gray-900 text-white p-8 md:p-16 rounded-3xl max-w-7xl mx-auto shadow-2xl font-sans">
+    <div className="bg-gray-900 text-white p-8 md:p-16 max-w-7xl mx-auto shadow-2xl font-sans">
       <div className="flex flex-col lg:flex-row gap-12 items-center">
 
         <div className="lg:w-1/2 relative order-last lg:order-first">

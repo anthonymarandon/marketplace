@@ -4,7 +4,7 @@ export default function CTA6() {
   const imageUrl = 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80';
 
   return (
-    <div className="bg-gradient-to-r from-gray-50 to-gray-100 p-8 md:p-12 rounded-2xl max-w-6xl mx-auto font-sans">
+    <div className="bg-gradient-to-r from-gray-50 to-gray-100 p-8 md:p-12 max-w-6xl mx-auto font-sans">
       <div className="flex flex-col md:flex-row gap-8 items-stretch"> 
 
         <div className="md:w-1/2 flex flex-col justify-center text-center md:text-left py-4">

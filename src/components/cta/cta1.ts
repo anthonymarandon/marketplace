@@ -19,7 +19,7 @@ export const componentCTA1: Component = {
 
 
     return (
-        <div className="bg-gradient-to-br from-purple-50 via-purple-100 to-violet-100 p-8 md:p-16 rounded-3xl max-w-7xl mx-auto shadow-lg font-sans">
+        <div className="bg-gradient-to-br from-purple-50 via-purple-100 to-violet-100 p-8 md:p-16 max-w-7xl mx-auto shadow-lg font-sans">
         <div className="flex flex-col lg:flex-row gap-12 items-center">
 
             <div className="lg:w-1/2 text-center lg:text-left">

@@ -19,7 +19,7 @@ export default function CTA5() {
   const testimonialAvatar = 'https://i.pravatar.cc/150?img=8';
 
   return (
-    <div className="bg-white p-8 md:p-16 rounded-3xl max-w-7xl mx-auto font-sans border border-gray-200">
+    <div className="bg-white p-8 md:p-16 max-w-7xl mx-auto font-sans border border-gray-200">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
 
         <div className="text-center lg:text-left">

@@ -14,7 +14,7 @@ export default function CTA7() {
   const illustrationUrl = 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80'; 
 
   return (
-    <div className="bg-rose-50 p-8 md:p-16 rounded-3xl max-w-6xl mx-auto font-sans overflow-hidden">
+    <div className="bg-rose-50 p-8 md:p-16 max-w-6xl mx-auto font-sans overflow-hidden">
       <div className="flex flex-col md:flex-row gap-10 items-center">
 
         <div className="md:w-3/5 text-center md:text-left">

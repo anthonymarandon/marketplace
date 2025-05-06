@@ -5,7 +5,7 @@ export default function CTA8() {
   const backgroundImageUrl = 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&q=80';
 
   return (
-    <div className="relative bg-gray-800 p-8 md:p-16 rounded-3xl max-w-6xl mx-auto font-sans text-white overflow-hidden">
+    <div className="relative bg-gray-800 p-8 md:p-16 max-w-6xl mx-auto font-sans text-white overflow-hidden">
         <div className="absolute inset-0 z-0">
             <img src={backgroundImageUrl} alt="Fond abstrait technologie" className="object-cover w-full h-full opacity-20"/>
             <div className="absolute inset-0 bg-gradient-to-t from-gray-800 via-gray-800/80 to-transparent"></div>

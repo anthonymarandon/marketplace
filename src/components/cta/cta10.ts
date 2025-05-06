@@ -20,7 +20,7 @@ export default function CTA10() {
   ];
 
   return (
-    <div className="bg-white p-8 md:p-16 rounded-lg max-w-7xl mx-auto font-sans border border-gray-200 shadow-sm">
+    <div className="bg-white p-8 md:p-16 max-w-7xl mx-auto font-sans border border-gray-200 shadow-sm">
       <div className="flex flex-col lg:flex-row gap-12 items-center">
 
         <div className="lg:w-1/2 order-2 lg:order-1">
