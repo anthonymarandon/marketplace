@@ -85,6 +85,18 @@ import { componentCTA7 } from '@/components/cta/cta7';
 import { componentCTA8 } from '@/components/cta/cta8';
 import { componentCTA9 } from '@/components/cta/cta9';
 import { componentCTA10 } from '@/components/cta/cta10';
+
+import { componentFaq1 } from '@/components/faq/faq1';
+import { componentFaq2 } from '@/components/faq/faq2';
+import { componentFaq3 } from '@/components/faq/faq3';
+import { componentFaq4 } from '@/components/faq/faq4';
+import { componentFaq5 } from '@/components/faq/faq5';
+import { componentFaq6 } from '@/components/faq/faq6';
+import { componentFaq7 } from '@/components/faq/faq7';
+import { componentFaq8 } from '@/components/faq/faq8';
+import { componentFaq9 } from '@/components/faq/faq9';
+import { componentFaq10 } from '@/components/faq/faq10';
+
 export const componentData = {
   about: [
     { id: componentAbout1.id, name: componentAbout1.name, description: componentAbout1.description, category: componentAbout1.category, component: componentAbout1.component, code: componentAbout1.code },
@@ -181,5 +193,17 @@ export const componentData = {
     { id: componentCTA8.id, name: componentCTA8.name, description: componentCTA8.description, category: componentCTA8.category, component: componentCTA8.component, code: componentCTA8.code },
     { id: componentCTA9.id, name: componentCTA9.name, description: componentCTA9.description, category: componentCTA9.category, component: componentCTA9.component, code: componentCTA9.code },
     { id: componentCTA10.id, name: componentCTA10.name, description: componentCTA10.description, category: componentCTA10.category, component: componentCTA10.component, code: componentCTA10.code },
+  ],
+  faq: [
+    { id: componentFaq1.id, name: componentFaq1.name, description: componentFaq1.description, category: componentFaq1.category, component: componentFaq1.component, code: componentFaq1.code },
+    { id: componentFaq2.id, name: componentFaq2.name, description: componentFaq2.description, category: componentFaq2.category, component: componentFaq2.component, code: componentFaq2.code },
+    { id: componentFaq3.id, name: componentFaq3.name, description: componentFaq3.description, category: componentFaq3.category, component: componentFaq3.component, code: componentFaq3.code },
+    { id: componentFaq4.id, name: componentFaq4.name, description: componentFaq4.description, category: componentFaq4.category, component: componentFaq4.component, code: componentFaq4.code },
+    { id: componentFaq5.id, name: componentFaq5.name, description: componentFaq5.description, category: componentFaq5.category, component: componentFaq5.component, code: componentFaq5.code },
+    { id: componentFaq6.id, name: componentFaq6.name, description: componentFaq6.description, category: componentFaq6.category, component: componentFaq6.component, code: componentFaq6.code },
+    { id: componentFaq7.id, name: componentFaq7.name, description: componentFaq7.description, category: componentFaq7.category, component: componentFaq7.component, code: componentFaq7.code },
+    { id: componentFaq8.id, name: componentFaq8.name, description: componentFaq8.description, category: componentFaq8.category, component: componentFaq8.component, code: componentFaq8.code },
+    { id: componentFaq9.id, name: componentFaq9.name, description: componentFaq9.description, category: componentFaq9.category, component: componentFaq9.component, code: componentFaq9.code },
+    { id: componentFaq10.id, name: componentFaq10.name, description: componentFaq10.description, category: componentFaq10.category, component: componentFaq10.component, code: componentFaq10.code },
   ],
 };
