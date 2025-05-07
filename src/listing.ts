@@ -86,6 +86,17 @@ import { componentCTA8 } from '@/components/cta/cta8';
 import { componentCTA9 } from '@/components/cta/cta9';
 import { componentCTA10 } from '@/components/cta/cta10';
 
+import { componentForm1 } from '@/components/form/form1';
+import { componentForm2 } from '@/components/form/form2';
+import { componentForm3 } from '@/components/form/form3';
+import { componentForm4 } from '@/components/form/form4';
+import { componentForm5 } from '@/components/form/form5';
+import { componentForm6 } from '@/components/form/form6';
+import { componentForm7 } from '@/components/form/form7';
+import { componentForm8 } from '@/components/form/form8';
+import { componentForm9 } from '@/components/form/form9';
+import { componentForm10 } from '@/components/form/form10';
+
 import { componentFaq1 } from '@/components/faq/faq1';
 import { componentFaq2 } from '@/components/faq/faq2';
 import { componentFaq3 } from '@/components/faq/faq3';
@@ -193,6 +204,18 @@ export const componentData = {
     { id: componentCTA8.id, name: componentCTA8.name, description: componentCTA8.description, category: componentCTA8.category, component: componentCTA8.component, code: componentCTA8.code },
     { id: componentCTA9.id, name: componentCTA9.name, description: componentCTA9.description, category: componentCTA9.category, component: componentCTA9.component, code: componentCTA9.code },
     { id: componentCTA10.id, name: componentCTA10.name, description: componentCTA10.description, category: componentCTA10.category, component: componentCTA10.component, code: componentCTA10.code },
+  ],
+  form: [
+    { id: componentForm1.id, name: componentForm1.name, description: componentForm1.description, category: componentForm1.category, component: componentForm1.component, code: componentForm1.code },
+    { id: componentForm2.id, name: componentForm2.name, description: componentForm2.description, category: componentForm2.category, component: componentForm2.component, code: componentForm2.code },
+    { id: componentForm3.id, name: componentForm3.name, description: componentForm3.description, category: componentForm3.category, component: componentForm3.component, code: componentForm3.code },
+    { id: componentForm4.id, name: componentForm4.name, description: componentForm4.description, category: componentForm4.category, component: componentForm4.component, code: componentForm4.code },
+    { id: componentForm5.id, name: componentForm5.name, description: componentForm5.description, category: componentForm5.category, component: componentForm5.component, code: componentForm5.code },
+    { id: componentForm6.id, name: componentForm6.name, description: componentForm6.description, category: componentForm6.category, component: componentForm6.component, code: componentForm6.code },
+    { id: componentForm7.id, name: componentForm7.name, description: componentForm7.description, category: componentForm7.category, component: componentForm7.component, code: componentForm7.code },
+    { id: componentForm8.id, name: componentForm8.name, description: componentForm8.description, category: componentForm8.category, component: componentForm8.component, code: componentForm8.code },
+    { id: componentForm9.id, name: componentForm9.name, description: componentForm9.description, category: componentForm9.category, component: componentForm9.component, code: componentForm9.code },
+    { id: componentForm10.id, name: componentForm10.name, description: componentForm10.description, category: componentForm10.category, component: componentForm10.component, code: componentForm10.code },
   ],
   faq: [
     { id: componentFaq1.id, name: componentFaq1.name, description: componentFaq1.description, category: componentFaq1.category, component: componentFaq1.component, code: componentFaq1.code },
